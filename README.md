@@ -1,2 +1,2 @@
 # CodeHunt
-Product Hunt Clone with ReactJS &amp; Firebase
+A Product Hunt clone built with ReactJS &amp; Firebase
